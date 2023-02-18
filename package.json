@@ -24,6 +24,10 @@
     "@nestjs/config": "^2.3.1",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+    "@typegoose/typegoose": "^10.1.1",
+    "@types/mongoose": "^5.11.97",
+    "mongoose": "^6.9.2",
+    "nestjs-typegoose": "^7.1.38",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
   },
